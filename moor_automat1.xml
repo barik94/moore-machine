@@ -1,0 +1,39 @@
+<table>
+    <states>
+        <state val="s1">
+	    <a p="39">s2</a>
+	    <a p="61">s4</a>
+	    <b p="44">s3</b>
+	    <b p="18">s5</b>
+	    <b p="25">s3</b>
+	    <b p="13">s2</b>
+	</state>
+	<state val="s2">
+	    <a p="10">s1</a>
+	    <a p="45">s5</a>
+	    <a p="45">s3</a>
+	    <b p="25">s3</b>
+	    <b p="25">s4</b>
+	    <b p="50">s1</b>
+	</state>
+	<state val="s3">
+	    <a p="23">s1</a>
+	    <a p="44">s5</a>
+	    <a p="7">s2</a>
+	    <a p="26">s3</a>
+	    <b p="10">s1</b>
+	    <b p="90">s3</b>
+	</state>
+	<state val="s4">
+	    <a p="100">s5</a>
+	    <b p="100">s1</b>
+	</state>
+	<state val="s5">
+	    <a p="26">s1</a>
+	    <a p="70">s3</a>
+	    <a p="4">s2</a>
+	    <b p="10">s4</b>
+	    <b p="90">s2</b>
+	</state>
+    </states>
+</table>
